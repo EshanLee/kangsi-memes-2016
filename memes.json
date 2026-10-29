@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-08T15:59:47",
+  "generated_at": "2026-10-29T15:47:44",
   "base_url": "https://eshanlee.github.io/kangsi-memes-2016",
   "n_episodes": 8,
-  "n_memes": 278,
+  "n_memes": 286,
   "n_videos": 0,
   "emotions": {
     "中箭": [
@@ -86,6 +86,7 @@
     "笑裡藏刀": [],
     "超醜": [],
     "錯亂": [],
+    "面有難色": [],
     "默認": []
   },
   "episodes": {
@@ -955,6 +956,18 @@
       "youtube_url": "https://www.youtube.com/watch?v=O5Eog7lAdQs&t=1824s"
     },
     {
+      "no": 145,
+      "id": "20160105_002012.000s",
+      "video_id": "20160105",
+      "time_sec": 2012.0,
+      "timecode": "00:33:32.000",
+      "subtitle": "我們不是雙人搭檔嗎",
+      "emotions": [],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2016/images/20160105/20160105_002012.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2016/thumbs/20160105/20160105_002012.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=O5Eog7lAdQs&t=2012s"
+    },
+    {
       "no": 146,
       "id": "20160105_002061.000s",
       "video_id": "20160105",
@@ -967,6 +980,20 @@
       "image_url": "https://eshanlee.github.io/kangsi-memes-2016/images/20160105/20160105_002061.000s.jpg",
       "thumb_url": "https://eshanlee.github.io/kangsi-memes-2016/thumbs/20160105/20160105_002061.000s.jpg",
       "youtube_url": "https://www.youtube.com/watch?v=O5Eog7lAdQs&t=2061s"
+    },
+    {
+      "no": 147,
+      "id": "20160105_002072.000s",
+      "video_id": "20160105",
+      "time_sec": 2072.0,
+      "timecode": "00:34:32.000",
+      "subtitle": "",
+      "emotions": [
+        "面有難色"
+      ],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2016/images/20160105/20160105_002072.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2016/thumbs/20160105/20160105_002072.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=O5Eog7lAdQs&t=2072s"
     },
     {
       "no": 148,
@@ -1515,6 +1542,20 @@
       "youtube_url": "https://www.youtube.com/watch?v=ZjL1odjcQXk&t=449s"
     },
     {
+      "no": 193,
+      "id": "20160107_000450.000s",
+      "video_id": "20160107",
+      "time_sec": 450.0,
+      "timecode": "00:07:30.000",
+      "subtitle": "",
+      "emotions": [
+        "糗"
+      ],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2016/images/20160107/20160107_000450.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2016/thumbs/20160107/20160107_000450.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=ZjL1odjcQXk&t=450s"
+    },
+    {
       "no": 194,
       "id": "20160107_000499.000s",
       "video_id": "20160107",
@@ -1823,6 +1864,20 @@
       "youtube_url": "https://www.youtube.com/watch?v=ZjL1odjcQXk&t=1301s"
     },
     {
+      "no": 219,
+      "id": "20160107_001304.000s",
+      "video_id": "20160107",
+      "time_sec": 1304.0,
+      "timecode": "00:21:44.000",
+      "subtitle": "",
+      "emotions": [
+        "傻眼"
+      ],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2016/images/20160107/20160107_001304.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2016/thumbs/20160107/20160107_001304.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=ZjL1odjcQXk&t=1304s"
+    },
+    {
       "no": 220,
       "id": "20160107_001350.000s",
       "video_id": "20160107",
@@ -1945,6 +2000,20 @@
       "youtube_url": "https://www.youtube.com/watch?v=ZjL1odjcQXk&t=1635s"
     },
     {
+      "no": 230,
+      "id": "20160107_001637.000s",
+      "video_id": "20160107",
+      "time_sec": 1637.0,
+      "timecode": "00:27:17.000",
+      "subtitle": "",
+      "emotions": [
+        "中箭"
+      ],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2016/images/20160107/20160107_001637.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2016/thumbs/20160107/20160107_001637.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=ZjL1odjcQXk&t=1637s"
+    },
+    {
       "no": 231,
       "id": "20160107_001651.000s",
       "video_id": "20160107",
@@ -1967,6 +2036,20 @@
       "image_url": "https://eshanlee.github.io/kangsi-memes-2016/images/20160107/20160107_002099.000s.jpg",
       "thumb_url": "https://eshanlee.github.io/kangsi-memes-2016/thumbs/20160107/20160107_002099.000s.jpg",
       "youtube_url": "https://www.youtube.com/watch?v=ZjL1odjcQXk&t=2099s"
+    },
+    {
+      "no": 233,
+      "id": "20160107_002139.000s",
+      "video_id": "20160107",
+      "time_sec": 2139.0,
+      "timecode": "00:35:39.000",
+      "subtitle": "",
+      "emotions": [
+        "糗"
+      ],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2016/images/20160107/20160107_002139.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2016/thumbs/20160107/20160107_002139.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=ZjL1odjcQXk&t=2139s"
     },
     {
       "no": 234,
@@ -2915,6 +2998,20 @@
       "youtube_url": "https://www.youtube.com/watch?v=EPW2IMevLkk&t=985s"
     },
     {
+      "no": 311,
+      "id": "20160113_000995.000s",
+      "video_id": "20160113",
+      "time_sec": 995.0,
+      "timecode": "00:16:35.000",
+      "subtitle": "",
+      "emotions": [
+        "尷尬"
+      ],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2016/images/20160113/20160113_000995.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2016/thumbs/20160113/20160113_000995.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=EPW2IMevLkk&t=995s"
+    },
+    {
       "no": 312,
       "id": "20160113_000997.000s",
       "video_id": "20160113",
@@ -2949,6 +3046,20 @@
       "image_url": "https://eshanlee.github.io/kangsi-memes-2016/images/20160113/20160113_001021.000s.jpg",
       "thumb_url": "https://eshanlee.github.io/kangsi-memes-2016/thumbs/20160113/20160113_001021.000s.jpg",
       "youtube_url": "https://www.youtube.com/watch?v=EPW2IMevLkk&t=1021s"
+    },
+    {
+      "no": 315,
+      "id": "20160113_001024.000s",
+      "video_id": "20160113",
+      "time_sec": 1024.0,
+      "timecode": "00:17:04.000",
+      "subtitle": "",
+      "emotions": [
+        "糗"
+      ],
+      "image_url": "https://eshanlee.github.io/kangsi-memes-2016/images/20160113/20160113_001024.000s.jpg",
+      "thumb_url": "https://eshanlee.github.io/kangsi-memes-2016/thumbs/20160113/20160113_001024.000s.jpg",
+      "youtube_url": "https://www.youtube.com/watch?v=EPW2IMevLkk&t=1024s"
     },
     {
       "no": 316,
